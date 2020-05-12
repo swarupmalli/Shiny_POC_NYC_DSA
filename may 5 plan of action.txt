@@ -1,0 +1,11 @@
+Plan for tomorrow's demo
+
+1) 2 plots for 1st and 2nd tab,more if you can
+
+2) reactive filter
+
+2) Today evening prep for the demo
+
+3) make a blog in a word file and store it in the poc folder
+
+4) 
